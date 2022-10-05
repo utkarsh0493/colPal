@@ -1,0 +1,22 @@
+Package: colPal
+Type: Package
+Title: Color Pallete
+Version: 0.1.0
+Author: Utkarsh Mahamune
+Maintainer: Utkarsh Mahamune <utkarsh@packageDeveloper.com>
+Description: The package gives a distinctive color pallete.
+License: AGPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0),
+    knitr (>= 1.40),
+    rmarkdown
+Config/testthat/edition: 3
+RoxygenNote: 7.2.1
+Imports: 
+    dplyr (>= 1.0.9),
+    RColorBrewer (>= 1.1.2)
+Depends: 
+    R (>= 2.10)
+VignetteBuilder: knitr
