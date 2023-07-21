@@ -21,18 +21,3 @@ This is a basic example which shows you how to use this package:
 ``` r
 browseVignettes("colPal")
 ```
-
-
-testing markdown
-
-
-    $$
-    \sum_{k = 1}^{N}{(R_(avg) * W_i)}
-    $$
-
-
-
-
-$$
-\sum_{i = 1}^{n}{(\bar{x} - x_i)^2}
-$$
