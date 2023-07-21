@@ -22,3 +22,8 @@ This is a basic example which shows you how to use this package:
 browseVignettes("colPal")
 ```
 
+
+testing markdown
+$$
+\sum_{k = 1}^{N}{R_avg,k} * {W_i,k}
+$$
