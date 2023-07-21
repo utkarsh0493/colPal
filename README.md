@@ -26,13 +26,11 @@ browseVignettes("colPal")
 testing markdown
 
 
-$$
-\sum_{k = 1}^{N}{(R_(avg) * W_i)}
-$$
+    $$
+    \sum_{k = 1}^{N}{(R_(avg) * W_i)}
+    $$
 
-$$
-\{mRNA\ count\ for\ spot\ i} = \sum_{k = 1}^{N}{({R_{avg, k}} * W_{i, k})}
-$$
+
 
 
 $$
