@@ -25,7 +25,7 @@ browseVignettes("colPal")
 
 testing markdown
 $$
-\sum_{k = 1}^{N}{({R_avg}) * ({W_i})}
+\sum_{k = 1}^{N}{({R_avg} * {W_i})}
 $$
 
 
