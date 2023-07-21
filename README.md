@@ -27,3 +27,8 @@ testing markdown
 $$
 \sum_{k = 1}^{N}{R_avg,k} * {W_i,k}
 $$
+
+
+$$
+\sum_{i = 1}^{n}{(\bar{x} - x_i)^2}
+$$
