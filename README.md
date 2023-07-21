@@ -31,7 +31,7 @@ $$
 $$
 
 $$
-\{mRNA \count \for \spot \i} = \sum_{k = 1}^{N}{({R_{avg, k}} * W_{i, k})}
+\{mRNA\ count\ for\ spot\ i} = \sum_{k = 1}^{N}{({R_{avg, k}} * W_{i, k})}
 $$
 
 
