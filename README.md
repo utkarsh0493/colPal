@@ -25,10 +25,10 @@ browseVignettes("colPal")
 
 testing markdown
 $$
-\sum_{k = 1}^{N}{a}
+\sum_{k = 1}^{N}{({R_avg}) * ({W_i})}
 $$
 
 
 $$
-\sum_{i = 1}^{n}{b}
+\sum_{i = 1}^{n}{(\bar{x} - x_i)^2}
 $$
